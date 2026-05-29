@@ -1,0 +1,1 @@
+all ptx nccl gemm
